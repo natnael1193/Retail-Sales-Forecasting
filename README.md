@@ -12,6 +12,12 @@ reducing forecast error.
 
 ## Dataset
 
+### Dataset Link
+
+  ```
+  https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
+  ```
+
 -   Date
 -   Store Number
 -   Product Family
